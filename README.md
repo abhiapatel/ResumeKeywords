@@ -14,16 +14,12 @@
 
 </div>
 
-  <h2 align="center">ResumeWords</h2>
+  <h2 align="center">ResumeKeywords</h2>
 
   <p align="center">
     Nail your resume and cover letter by leveraging AI and NLP to extract keywords from online job postings.
     <br />
     <a href="https://resume-words.com">View Demo</a>
-    ·
-    <a href="https://github.com/ShahmeerShahid/ResumeWords/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ShahmeerShahid/ResumeWords/issues">Request Feature</a>
   </p>
 </p>
 
@@ -134,18 +130,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 [Abhi Shobhashana](https://www.linkedin.com/in/abhi-shobhashana-6b473618a/) - abhiashobhashana@gmail.com
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/ShahmeerShahid/ResumeWords
-[contributors-url]: https://github.com/ShahmeerShahid/ResumeWords/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ShahmeerShahid/ResumeWords
-[forks-url]: https://github.com/ShahmeerShahid/ResumeWords/network/members
-[stars-shield]: https://img.shields.io/github/stars/ShahmeerShahid/ResumeWords
-[stars-url]: https://github.com/ShahmeerShahid/ResumeWords/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ShahmeerShahid/ResumeWords
-[issues-url]: https://github.com/ShahmeerShahid/ResumeWords/issues
-[license-shield]: https://img.shields.io/github/license/ShahmeerShahid/ResumeWords
-[license-url]: https://github.com/ShahmeerShahid/ResumeWords/blob/master/LICENSE
-[product-screenshot]: images/screenshot.png
