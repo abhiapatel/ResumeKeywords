@@ -4,8 +4,6 @@
     <img src="images/logo.png" alt="Logo">
   </a>
 
-  <h2 align="center">ResumeKeywords</h2>
-
   <p align="center">
     Nail your resume and cover letter by leveraging AI and NLP to extract keywords from online job postings.
     <br />
